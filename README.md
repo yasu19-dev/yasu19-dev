@@ -29,10 +29,8 @@ I hold a **Master's degree in Private Law**, a background that allows me to appr
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasu19-dev&show_icons=true&theme=radical" alt="Yasmine's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasu19-dev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Yasmine's Github Stats](https://github-readme-stats.vercel.app/api?username=yasu19-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasu19-dev&layout=compact&theme=radical)
 
 ---
 
