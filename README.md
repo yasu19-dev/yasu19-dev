@@ -1,28 +1,38 @@
 # Hi there, I'm Yasmine HARROUDI! 👋
 
-I am a **Full Stack Developer** based in **Tangier, Morocco**. With a **Master's degree in Private Law**, I bridge the gap between legal rigor and technical precision. I don't just write code; I build systems with the logic of a jurist and the efficiency of a developer. ⚖️ ➡️ 💻
+I am a **Full Stack Developer** based in **Tangier, Morocco**. With a **Master's degree in Private Law**, I bridge the gap between legal rigor and technical precision. ⚖️ ➡️ 💻
 
-### 🔭 What I’m working on:
-* **Law Firm Manager**: A specialized desktop application (Tkinter/MongoDB) designed to streamline legal workflows.
-* **Netflix Clone**: A high-performance streaming interface built with **React.js**.
-* **Full Stack Platforms**: Developing robust applications using **Laravel 10** and **MySQL**.
+### 🛠️ Tech Stack & Tools
 
-### 🎓 Education & Training:
-* **Master's degree in Private Law**: Providing a foundation in complex problem-solving.
-* **Specialized Development Training (ISMONTIC Tangier)**: Focused on modern web architectures.
+**Languages & Frameworks:**
+<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<br>![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🛠️ Updated Tech Stack:
-* **Frontend**: React.js, WordPress, Blade, Bootstrap, Tailwind CSS.
-* **Backend**: Laravel, Node.js, PHP.
-* **Databases**: MySQL, MongoDB.
-* **Methodologies**: Design Thinking, Agile/Scrum.
-* **Soft Skills**: Analytical Reasoning, Legal Compliance in Tech, Project Management.
+**Database & Cloud:**
+<br>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Methodologies & Soft Skills:**
+<br>![Design Thinking](https://img.shields.io/badge/Design_Thinking-EB3C27?style=for-the-badge&logo=canvas&logoColor=white)
+<br>![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<br>![Soft Skills](https://img.shields.io/badge/Soft_Skills-FFB11B?style=for-the-badge&logo=super-user&logoColor=black)
+
+---
+
+### 🔭 Projects in Focus:
+* **Law Firm Manager**: A specialized application (Tkinter/MongoDB) to manage legal files and procedures.
+* **Netflix Clone**: A responsive UI built with **React.js**.
+* **E-commerce Solutions**: Creating dynamic sites using **WordPress** and **WooCommerce**.
 
 ### 🌱 Currently Learning:
-* Deep diving into **Cloud Computing (Azure)** and advanced **Node.js** patterns.
-
-### 👯 I’m looking to collaborate on:
-* Open-source projects involving React, Laravel, or LegalTech solutions.
+* Advanced **Laravel 10** architecture.
+* Scalable **Node.js** backend patterns.
+* **Cloud Computing** integration at **ISMONTIC**.
 
 ### ⚡ Fun fact:
 I swapped the courtroom for the cloud ☁️ (and I'm currently on a fitness journey! 🏋️‍♀️).
@@ -30,8 +40,9 @@ I swapped the courtroom for the cloud ☁️ (and I'm currently on a fitness jou
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasu19-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasu19-dev&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasu19-dev&theme=radical)
+
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/yasmine-harroudi) | [Portfolio](#) | [Email](mailto:contact.yasmineharroudi@exemple.com)
+[LinkedIn](https://www.linkedin.com/in/yasmine-harroudi) | [Email](mailto:contact.yasmineharroudi@gmail.com)
